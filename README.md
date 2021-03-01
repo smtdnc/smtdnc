@@ -4,7 +4,7 @@
 
 [![KZSYSTEM++](https://img.shields.io/discord/783456542078926860?color=%237289DA&label=KZSYSTEMpp&logo=discord&logoColor=white)](https://discord.gg/P3Bzk3RV9b)
 
-###Kullandığım yazılım dilleri
+### Kullandığım yazılım dilleri
 
 <a href="https://tr.wikipedia.org/wiki/CSS"><img align="left" alt="CSS" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234379441635358/css.png"/></a>
 <a href="https://tr.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML5" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234380518785044/html.png" /></a>
