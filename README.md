@@ -14,4 +14,3 @@
 <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432"><img align="left" alt="VSCODE" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234388383891476/vscode.png" /></a>
 <a href="https://visualstudio.microsoft.com/tr/vs/"><img align="left" alt="VS2019" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234386080301097/visualstudio.png"></a>
 <a href="https://www.adobe.com/tr/products/photoshop.html"><img align="left" alt="PHOTOSHOP" width="30px" src="https://www.adobe.com/content/dam/cc/icons/photoshop-mobile.svg"></a>
-<a href="https://miro.com"><img align="left" alt="MIRO" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/795285711421964288/download.png"></a>
