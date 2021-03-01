@@ -8,6 +8,7 @@
 
 </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="CSHARP" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234375292944424/csharp.png" /></a>
+<a href="https://www.javascript.com"><img align="left" alt="JAVASCRIPT" width="30px" src="https://cdn.discordapp.com/attachments/795066298295910420/815234381730938946/javascript.png" /></a>
 <br/>
 
 ### Kullandığım araçlar
